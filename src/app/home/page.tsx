@@ -36,7 +36,7 @@ const Page: React.FC = () => {
       {/* Key Metrics portion */}
       <div className="relative bg-gray-100 py-16">
         <div className="max-w-7xl mx-auto text-center px-4">
-          <h2 className="text-6xl font-bold text-gray-800 mb-8 mt-8">
+          <h2 className="text-6xl font-bold text-[#037213] mb-8 mt-8">
             Key Metrics & Impact
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
